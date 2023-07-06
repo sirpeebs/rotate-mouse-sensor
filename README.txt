@@ -10,7 +10,7 @@ $$ |  $$ |\$$$$$$  |\$$$$$\$$$$  |        \$$$$  \$$$$$$  |      \$$$$$$  |$$$$$
 
 ______________________________________________________________________________________________  
                                                                                                
-1. Adjust the 'AngleAdjustment' value in setting.txt.
+1. Adjust the 'AngleAdjustment' value in settings.txt.
 
 	-this value is the number of degrees of rotation applied to your sensor.
 
